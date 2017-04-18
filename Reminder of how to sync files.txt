@@ -1,0 +1,5 @@
+1. edit and save in Brackets
+2. In GitHub > Changes Tab, summarize the change
+3. In GitHub, press commit
+4. In GitHub, press Sync
+5. Wait a minute and reload bishaljr9.github.io
